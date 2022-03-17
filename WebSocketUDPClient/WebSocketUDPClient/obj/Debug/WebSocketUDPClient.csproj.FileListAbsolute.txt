@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\bin\Debug\WebSocketUDPClient.exe.config
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\bin\Debug\WebSocketUDPClient.exe
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\bin\Debug\WebSocketUDPClient.pdb
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\obj\Debug\WebSocketUDPClient.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\obj\Debug\WebSocketUDPClient.UDPClient.resources
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\obj\Debug\WebSocketUDPClient.Properties.Resources.resources
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\obj\Debug\WebSocketUDPClient.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\obj\Debug\WebSocketUDPClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\obj\Debug\WebSocketUDPClient.exe
+C:\Users\User\source\repos\WebSocketUDPClient\WebSocketUDPClient\obj\Debug\WebSocketUDPClient.pdb

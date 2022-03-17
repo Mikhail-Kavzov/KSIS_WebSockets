@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\bin\Debug\KsisWebSocket.exe.config
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\bin\Debug\KsisWebSocket.exe
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\bin\Debug\KsisWebSocket.pdb
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\obj\Debug\KsisWebSocket.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\obj\Debug\KsisWebSocket.WebSocket.resources
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\obj\Debug\KsisWebSocket.Properties.Resources.resources
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\obj\Debug\KsisWebSocket.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\obj\Debug\KsisWebSocket.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\obj\Debug\KsisWebSocket.exe
+C:\Users\User\source\repos\KsisWebSocket\KsisWebSocket\obj\Debug\KsisWebSocket.pdb
