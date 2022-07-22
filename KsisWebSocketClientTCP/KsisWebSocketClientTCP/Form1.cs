@@ -110,7 +110,9 @@ namespace KsisWebSocketClientTCP
                     ++counter;
                 }
                 if (counter == 0)
-                    throw new Exception("Файл недоступен");
+                {
+                    MessageBox.Show("Файл недоступен", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    return;}
                 MessageBox.Show("Передача завершена", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 socket.Shutdown(SocketShutdown.Both);
                 socket.Disconnect(true);
@@ -139,8 +141,9 @@ namespace KsisWebSocketClientTCP
             finally
             {   if (wrFile!=null)
                 wrFile.Close();
+                 BtnCreateFile.Enabled = true;
             }
-            BtnCreateFile.Enabled = true;
+           
         }
 
         private void TCPClient_FormClosed(object sender, FormClosedEventArgs e)
@@ -148,7 +151,6 @@ namespace KsisWebSocketClientTCP
 
             if (socket != null)
             {
-                //socket.Shutdown(SocketShutdown.Both);
                 socket.Close();
             }
         }
